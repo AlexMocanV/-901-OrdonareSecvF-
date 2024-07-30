@@ -1,0 +1,6 @@
+#include <bits/stdc++.h>
+
+void ordonare(int a[],int n,int st,int dr)
+{
+    std::sort(a+st,a+dr+1);
+}
